@@ -9,7 +9,7 @@ Please make sure that you have installed the package `univariate_linear_regressi
 To install it, first clone the repo.
 
 ```
-git clone https://github.com/gutfeeling/univariate-linear-regression.git
+https://github.com/IfeanyiOsuji/unit-test-python.git
 ```
 
 Then install the package locally using `pip`, making sure that you are using Python version `>=3.6`.
